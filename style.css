@@ -131,7 +131,8 @@ body{
 }
 .conteudo-principal-imagem{
     margin-left: 8cm;
-    margin-bottom: 10px;
+    width: 7cm;
+    border-radius: 5px;
 }
 .conteudo-principal-btn-contato:hover{
     cursor: pointer;
