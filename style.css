@@ -132,7 +132,7 @@ body{
 .conteudo-principal-imagem{
     margin-left: 8cm;
     width: 7cm;
-    border-radius: 5px;
+    border-radius: 360px;
 }
 .conteudo-principal-btn-contato:hover{
     cursor: pointer;
